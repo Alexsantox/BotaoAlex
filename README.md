@@ -6,7 +6,7 @@
 ### Animação botão animado
 
 
-🔹 Um botão animado de acordo com o cursor.
+🔹 Um botão animado de acordo com que o cursor é passado em cima do mesmo.
 
 #
 **Tecnologias usadas:**
